@@ -1,0 +1,6 @@
+this is my third file
+
+i what to modify the third to the project 
+
+
+still on the matter of git deleting and changing  
