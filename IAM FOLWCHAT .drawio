@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-23T21:00:44.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="5PEiUa7xipB4Pe6f4QY6" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-23T21:02:26.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="bHzya5iqF5EtzcwOa2gv" version="12.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1424" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Assign to Nelson " style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="479KdQD7ZBqiYEr31Lz1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="479KdQD7ZBqiYEr31Lz1-7" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="tTEU5G0Pqny5nMd8ydW8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="290" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Assign to Abhilash " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="485" y="190" width="120" height="40" as="geometry"/>
@@ -23,28 +25,30 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Logging and monitoring through CloudTrail and Qradar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="740" width="140" height="60" as="geometry"/>
+          <mxGeometry x="500" y="730" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="479KdQD7ZBqiYEr31Lz1-44" value="But aggregating of APIs logs from CloudTrail to Qradar to fire an Alert have a 20mins lagand equally cannot handle encrypted logs . " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="880" width="180" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="If not create a request for a new AD group for the BU " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="315" width="120" height="60" as="geometry"/>
+          <mxGeometry x="670" y="320" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="479KdQD7ZBqiYEr31Lz1-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="479KdQD7ZBqiYEr31Lz1-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="480" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="479KdQD7ZBqiYEr31Lz1-37" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="479KdQD7ZBqiYEr31Lz1-7" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="tTEU5G0Pqny5nMd8ydW8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="479KdQD7ZBqiYEr31Lz1-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="340" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="479KdQD7ZBqiYEr31Lz1-7" value="Verify if the BU have an AD Group with appropriate naming convention" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="300" width="100" height="100" as="geometry"/>
+          <mxGeometry x="500" y="290" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="479KdQD7ZBqiYEr31Lz1-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="479KdQD7ZBqiYEr31Lz1-12" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+        <mxCell id="tTEU5G0Pqny5nMd8ydW8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="479KdQD7ZBqiYEr31Lz1-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="565" y="690" as="targetPoint"/>
+            <mxPoint x="565" y="730" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="479KdQD7ZBqiYEr31Lz1-12" value="&lt;div&gt;if an AD Group already &lt;br&gt;&lt;/div&gt;&lt;div&gt;exist create an ADFS roles with specified permission like base or read only with a cloud-formation ans deploy it to populate the users and their permissions &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
