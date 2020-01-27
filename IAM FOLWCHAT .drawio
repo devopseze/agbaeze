@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-24T16:18:54.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="tIcOjPs5n_7UBYR9hooS" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T22:02:56.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="Afst1FLY1FdKJU-PmbZb" version="12.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -10,10 +10,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div align=&quot;center&quot;&gt;Jira Ticket from a Business unit &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;requesting access to EDP with lists of users and their SLIDS &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;their level of permission and AD group is specified as the case may be&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="30" width="210" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="NAEa4tTACQxTE_O6A3Wq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="NAEa4tTACQxTE_O6A3Wq-1">
+        <mxCell id="NAEa4tTACQxTE_O6A3Wq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="NAEa4tTACQxTE_O6A3Wq-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Assign to Nelson " style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="BU assigned toAD (YES/NO)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="170" width="100" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="tTEU5G0Pqny5nMd8ydW8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
@@ -33,7 +33,7 @@
         <mxCell id="479KdQD7ZBqiYEr31Lz1-44" value="But aggregating of APIs logs from CloudTrail to Qradar to fire an Alert have a 20mins lagand equally cannot handle encrypted logs . " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="880" width="180" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="NAEa4tTACQxTE_O6A3Wq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="NAEa4tTACQxTE_O6A3Wq-3">
+        <mxCell id="NAEa4tTACQxTE_O6A3Wq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="NAEa4tTACQxTE_O6A3Wq-3" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="If not create a request for a new AD group for the BU " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -63,7 +63,7 @@
         <mxCell id="479KdQD7ZBqiYEr31Lz1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="479KdQD7ZBqiYEr31Lz1-15" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="479KdQD7ZBqiYEr31Lz1-15" value="Approved by NELSON " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="479KdQD7ZBqiYEr31Lz1-15" value="Approved by NELSON(Hand shake)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="479KdQD7ZBqiYEr31Lz1-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
@@ -75,10 +75,10 @@
         <mxCell id="479KdQD7ZBqiYEr31Lz1-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="787" y="526" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="NAEa4tTACQxTE_O6A3Wq-1" value="For now there no official approval. A ticket just created in Jira Board and assigned direct during sprints palnning " style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NAEa4tTACQxTE_O6A3Wq-1" value="For now there no official approval. A ticket just created in Jira Board and assigned direct during sprints palnning " style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="310" width="120" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="NAEa4tTACQxTE_O6A3Wq-3" value="Nelson Approval for AD creation and adding of New SLIDs " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NAEa4tTACQxTE_O6A3Wq-3" value="Nelson Approval for AD creation and adding of New SLIDs " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
