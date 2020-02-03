@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2020-01-29T21:11:34.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="trvnCbk6kxRf97W3M4Rp" version="12.6.1" type="github">
+<mxfile host="www.draw.io" modified="2020-02-03T20:55:55.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="l4z3GsPrQM3kpHrJrlEb" version="12.6.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1662" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="YbB6-Ssyfg7MyDk3qhQC-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2">
+        <mxCell id="YbB6-Ssyfg7MyDk3qhQC-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="75" as="targetPoint"/>
           </mxGeometry>
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="11" value="NO" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="370" y="390" width="40" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontColor=#001933;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="6" target="4" edge="1">
@@ -54,7 +54,7 @@
         <mxCell id="13" value="&lt;div&gt;Deploy the ADFS &lt;br&gt;&lt;/div&gt;&lt;div&gt;cloudformation &lt;br&gt;&lt;/div&gt;&lt;div&gt;template to populate &lt;br&gt;&lt;/div&gt;&lt;div&gt;ADFS Roles&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="640" width="159" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="14" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="14" value="NO" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="447" width="40" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="qdd8MyM_OBwsyk5cZME9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="15" edge="1">
@@ -130,7 +130,7 @@
         <mxCell id="qdd8MyM_OBwsyk5cZME9-59" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Near Real Time monitoring &lt;br&gt;&lt;/div&gt;&lt;div&gt;recommended for &lt;br&gt;&lt;/div&gt;&lt;div&gt;Security events &lt;br&gt;&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="230" y="930" width="170" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="YbB6-Ssyfg7MyDk3qhQC-52" value="&lt;div&gt;TO BE&lt;/div&gt;&lt;div&gt;ServiceNow&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="YbB6-Ssyfg7MyDk3qhQC-52" value="&lt;div&gt;TO BE&lt;/div&gt;&lt;div&gt;ServiceNow&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="45" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
